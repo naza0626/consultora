@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/consultora/static/css/main.3982bb5f.css",
+    "main.js": "/consultora/static/js/main.d464cfc8.js",
+    "static/media/logo.png": "/consultora/static/media/logo.6816331e53817fcbba43.png",
+    "index.html": "/consultora/index.html",
+    "main.3982bb5f.css.map": "/consultora/static/css/main.3982bb5f.css.map",
+    "main.d464cfc8.js.map": "/consultora/static/js/main.d464cfc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.d464cfc8.js"
+  ]
+}
